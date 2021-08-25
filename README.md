@@ -6,7 +6,12 @@
  * @LastEditors: Please set LastEditors
  * @LastEditTime: 2021-01-31 22:13:50
 -->
-
+# 常用
+```
+09filters滤波
+  2VoxelGrid滤波器对点云进行下采样
+  3滤波器移除离群点
+```
 # pcl
 
 PCL（Point Cloud Library）点云库  **个人开发环境：Ubuntu18.04**

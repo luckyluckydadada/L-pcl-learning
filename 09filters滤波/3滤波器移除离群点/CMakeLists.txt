@@ -10,3 +10,6 @@ add_definitions(${PCL_DEFINITIONS})
 
 add_executable (statistical_removal statistical_removal.cpp)
 target_link_libraries (statistical_removal ${PCL_LIBRARIES})
+
+add_executable (statistical_removal2 statistical_removal2.cpp)
+target_link_libraries (statistical_removal2 ${PCL_LIBRARIES})
